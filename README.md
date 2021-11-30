@@ -3,7 +3,6 @@
 
 <p img align="center"> <img src="https://user-images.githubusercontent.com/79036525/144110919-fb6d0c0d-44d7-48cd-a959-58ef6f9f2220.png" </p>
 
-- 📫 [Connect with me](anisha.dat01@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
