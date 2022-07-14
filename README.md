@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Anisha Datta</h1>
 <h3 align="center">Android Developer</h3>
 
-<img src="https://user-images.githubusercontent.com/79036525/179089786-0a2a4a27-a630-4d66-801e-29ad7cba5b58.png" align="right" width="500" height="350"/>
+<img src="https://user-images.githubusercontent.com/79036525/179089786-0a2a4a27-a630-4d66-801e-29ad7cba5b58.png" align="right" width="400" height="300"/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisha-01-phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="anisha-01-phoenix" /> </p>
 
