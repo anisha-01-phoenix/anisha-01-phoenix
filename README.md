@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, This is Anisha Datta</h1>
-<h3 align="center">App Developer</h3>
+# <h1 align="center">Hi👋, This is `Anisha Datta`🚀</h1>
+## <h3 align="center">👩‍💻<i>Software Developer</i>👩‍💻</h3>
 
 <img src="https://user-images.githubusercontent.com/79036525/179089786-0a2a4a27-a630-4d66-801e-29ad7cba5b58.png" align="right" width="400" height="300"/>
 <br/>
